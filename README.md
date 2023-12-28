@@ -11,3 +11,13 @@ The resulting product, referred to as the Fire Program Analysis fire-occurrence 
 
 Data:
 [kaggle](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires)
+
+distribution of fires over the years:
+
+![image](https://github.com/clovestad/Wild_fires/assets/103072823/ade50481-2a73-42d0-8891-a3882780e01c)
+
+distribution of fires between US states:
+
+![image](https://github.com/clovestad/Wild_fires/assets/103072823/634ab0ab-87aa-49bd-ac87-f2a5ceb2c136)
+
+
