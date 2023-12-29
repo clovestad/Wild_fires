@@ -20,4 +20,9 @@ distribution of fires between US states:
 
 ![image](https://github.com/clovestad/Wild_fires/assets/103072823/634ab0ab-87aa-49bd-ac87-f2a5ceb2c136)
 
+prepping data for machine learning:
+
+![image](https://github.com/clovestad/Wild_fires/assets/103072823/af32e8a9-8a08-4020-9408-bbcd7cc12c7e)
+
+
 
