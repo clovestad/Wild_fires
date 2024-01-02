@@ -23,14 +23,14 @@ distribution of fires between US states:
 Top causes for the top3 states with the highest counts of fires:
 
 
-Top causes of fires for California:
-![image](https://github.com/clovestad/Wild_fires/assets/103072823/3035d28e-4033-4f7e-bf25-12b63ff14923)
-
-Top causes of fires for Georgia:
-![image](https://github.com/clovestad/Wild_fires/assets/103072823/64cace80-c245-47d7-8732-2e77ea5ece08)
-
-Top causes of fires for Texas:
-![image](https://github.com/clovestad/Wild_fires/assets/103072823/ea1a7c99-a0c8-4359-96ab-6db69c974975)
+  Top causes of fires for California:
+  ![image](https://github.com/clovestad/Wild_fires/assets/103072823/3035d28e-4033-4f7e-bf25-12b63ff14923)
+  
+  Top causes of fires for Georgia:
+  ![image](https://github.com/clovestad/Wild_fires/assets/103072823/64cace80-c245-47d7-8732-2e77ea5ece08)
+  
+  Top causes of fires for Texas:
+  ![image](https://github.com/clovestad/Wild_fires/assets/103072823/ea1a7c99-a0c8-4359-96ab-6db69c974975)
 
 
 
