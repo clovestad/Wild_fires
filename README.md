@@ -27,6 +27,7 @@ Top causes of fires for California:
 ![image](https://github.com/clovestad/Wild_fires/assets/103072823/3035d28e-4033-4f7e-bf25-12b63ff14923)
 
 Top causes of fires for Georgia:
+![image](https://github.com/clovestad/Wild_fires/assets/103072823/64cace80-c245-47d7-8732-2e77ea5ece08)
 
 
 
