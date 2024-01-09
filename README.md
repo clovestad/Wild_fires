@@ -8,38 +8,22 @@ The data were transformed to conform, when possible, to the data standards of th
 Basic error-checking was performed and redundant records were identified and removed, to the degree possible.
 The resulting product, referred to as the Fire Program Analysis fire-occurrence database
 (FPA FOD), includes 1.88 million geo-referenced wildfire records, representing a total of 140 million acres burned during the 24-year period.
-
 Data:
 [kaggle](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires)
-
 distribution of fires over the years:
-
 ![image](https://github.com/clovestad/Wild_fires/assets/103072823/ade50481-2a73-42d0-8891-a3882780e01c)
-
 distribution of fires between US states:
-
 ![image](https://github.com/clovestad/Wild_fires/assets/103072823/634ab0ab-87aa-49bd-ac87-f2a5ceb2c136)
-
 Top causes for the top3 states with the highest counts of fires:
-
-
   Top causes of fires for California:
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/3035d28e-4033-4f7e-bf25-12b63ff14923)
-  
   Top causes of fires for Georgia:
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/64cace80-c245-47d7-8732-2e77ea5ece08)
-  
   Top causes of fires for Texas:
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/ea1a7c99-a0c8-4359-96ab-6db69c974975)
-
   combined causes of top 3 contributing states:
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/43ca0525-4571-416a-96f5-c2a0e2e95506)
-
-
-
-
   prepping data for machine learning:
-
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/af32e8a9-8a08-4020-9408-bbcd7cc12c7e)
 
 
