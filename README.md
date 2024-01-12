@@ -23,7 +23,7 @@ Top causes for the top3 states with the highest counts of fires:
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/ea1a7c99-a0c8-4359-96ab-6db69c974975)
   combined causes of top 3 contributing states:
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/43ca0525-4571-416a-96f5-c2a0e2e95506)
-  prepping data for machine learning:
+  prepared data for machine learning:
   ![image](https://github.com/clovestad/Wild_fires/assets/103072823/af32e8a9-8a08-4020-9408-bbcd7cc12c7e)
 
 
